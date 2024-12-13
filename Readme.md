@@ -5,15 +5,15 @@ A powerful utility for generating customizable canvas-based images with support 
 ## Little bit about this library
 
 > EN:
-> I remember when I was writing discord bots, I was always tormented by the question “Why can’t I just put it in JSON and get the result?”
-> Procedural programming is bad. Makes me write a lot of boilerplate
-> It is better to use a declarative style, this library follows it. With 1 JSON object you render everything
-> The library covers most tasks. Especially if you just draw profiles/banners and other images in discord
+I remember when I was writing discord bots, I was always tormented by the question “Why can’t I just put it in JSON and get the result?”
+Procedural programming is bad. Makes me write a lot of boilerplate
+It is better to use a declarative style, this library follows it. With 1 JSON object you render everything
+The library covers most tasks. Especially if you just draw profiles/banners and other images in discord
 > RU:
-> Помню когда писал дискорд ботов, то всегда мучал вопрос "Почему нельзя просто запихать в JSON и получить результат?"
-> Процедурное программирование - плохо. Заставляет писать много бойлерплейта
-> Лучше использовать декларативный стиль, которому следует эта библиотека. С помощью 1 JSON объекта вы отрисовываете всё
-> Библиотека покрывает большинство задач. В особенности, если вы просто рисуете дискорд профили/баннеры и прочие изображения
+Помню когда писал дискорд ботов, то всегда мучал вопрос "Почему нельзя просто запихать в JSON и получить результат?"
+Процедурное программирование - плохо. Заставляет писать много бойлерплейта
+Лучше использовать декларативный стиль, которому следует эта библиотека. С помощью 1 JSON объекта вы отрисовываете всё
+Библиотека покрывает большинство задач. В особенности, если вы просто рисуете дискорд профили/баннеры и прочие изображения
 
 ## Features
 
