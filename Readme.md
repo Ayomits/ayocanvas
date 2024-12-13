@@ -9,6 +9,8 @@ I remember when I was writing discord bots, I was always tormented by the questi
 Procedural programming is bad. Makes me write a lot of boilerplate
 It is better to use a declarative style, this library follows it. With 1 JSON object you render everything
 The library covers most tasks. Especially if you just draw profiles/banners and other images in discord
+<br>
+
 > RU:
 Помню когда писал дискорд ботов, то всегда мучал вопрос "Почему нельзя просто запихать в JSON и получить результат?"
 Процедурное программирование - плохо. Заставляет писать много бойлерплейта
