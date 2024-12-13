@@ -1,0 +1,20 @@
+{
+    "name": "ayocanvas",
+    "version": "0.0.1",
+    "main": "index.js",
+    "files": [
+      "dist"
+    ],
+    "license": "MIT",
+    "peerDependencies": {
+        "@napi-rs/canvas": "^0.1.65"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.2",
+        "tsup": "^8.3.5",
+        "typescript": "^5.7.2"
+    },
+    "dependencies": {
+        "@napi-rs/canvas": "^0.1.65"
+    }
+}
